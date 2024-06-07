@@ -45,8 +45,8 @@ const ContactForm = () => {
     },
     {
       image: Github,
-      title: "github.com/Toobdog",
-      link: "https://github.com/Toobdog",
+      title: "github.com/toobfinance",
+      link: "https://github.com/toobfinance",
       desktop: false,
     },
     {

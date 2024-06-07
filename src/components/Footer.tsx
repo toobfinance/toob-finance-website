@@ -19,7 +19,7 @@ const Footer = () => {
     },
     {
       image: Github,
-      link: "https://github.com/Toobdog",
+      link: "https://github.com/toobfinance",
     },
     {
       image: X,
@@ -112,7 +112,7 @@ const Footer = () => {
               Documentation
             </Link>
             <Link
-              href={"https://github.com/Toobdog"}
+              href={"https://github.com/toobfinance"}
               target="_blank"
               rel="noreferrer"
               className="text-xs md:text-lg hover:brightness-75 active:brightness-95 transition-all mt-3 lg:mt-6"
@@ -120,7 +120,7 @@ const Footer = () => {
               Github
             </Link>
             <Link
-              href={"https://github.com/Toobdog"}
+              href={"https://github.com/toobfinance"}
               target="_blank"
               rel="noreferrer"
               className="text-xs md:text-lg hover:brightness-75 active:brightness-95 transition-all mt-3 lg:mt-6"

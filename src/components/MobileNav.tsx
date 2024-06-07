@@ -27,7 +27,7 @@ const MobileNav: React.FC<MobileNavProps> = ({ open, setOpen, className }) => {
     },
     {
       image: Github,
-      link: "https://github.com/Toobdog",
+      link: "https://github.com/toobfinance",
     },
     {
       image: X,
