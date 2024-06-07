@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: black;
+
+  background: -moz-linear-gradient(top, transparent 50%, black 50%) no-repeat;
+  background: -webkit-linear-gradient(top, transparent 50%, black 50%) no-repeat;
+  background: -o-linear-gradient(top, transparent 50%, black 50%) no-repeat;
+  background: -ms-linear-gradient(top, transparent 50%, black 50%) no-repeat;
+  background: linear-gradient(transparent 50%, black 50%) no-repeat;
+}
