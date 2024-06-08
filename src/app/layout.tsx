@@ -15,7 +15,7 @@ const roboto = Roboto({
 })
 
 export const metadata: Metadata = {
-  title: "Toob Finance",
+  title: "Toob Finance: Bridging TradeFi <> DeFi",
   description: "Toob Finance",
   openGraph: {
     images: [
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
         url: "thumbnail.png",
         width: 1200,
         height: 600,
-        alt: "Ponted - Where Networks Connects",
+        alt: "Toob Finance: Bridging TradeFi <> DeFi",
       },
     ],
   },
