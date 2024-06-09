@@ -23,7 +23,7 @@ const MobileNav: React.FC<MobileNavProps> = ({ open, setOpen, className }) => {
   const socials = [
     {
       image: Reddit,
-      link: "https://docs.toob.finance",
+      link: "https://app.toob.finance",
     },
     {
       image: Github,
