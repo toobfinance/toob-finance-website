@@ -24,8 +24,8 @@ const poppins = Poppins({
   subsets: ["latin"],
 })
 
-const EMAILJS_SERVICE_ID = "service_96iyzrg"
-const EMAILJS_TEMPLATE_ID = "template_immi0ln"
+const EMAILJS_SERVICE_ID = "service_ewcay58"
+const EMAILJS_TEMPLATE_ID = "template_5uaaunc"
 
 const ContactForm = () => {
   const [name, setName] = useState("")
@@ -69,7 +69,7 @@ const ContactForm = () => {
   ]
 
   useEffect(() => {
-    emailjs.init("LPcZ-ovGrWfh7-vBr")
+    emailjs.init("EVSkqVcXC3U-Dj-gN")
   }, [])
 
   const nameError = !name.length
