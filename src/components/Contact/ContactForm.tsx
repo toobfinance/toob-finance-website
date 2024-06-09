@@ -24,7 +24,7 @@ const poppins = Poppins({
   subsets: ["latin"],
 })
 
-const EMAILJS_SERVICE_ID = "service_rul4a3o"
+const EMAILJS_SERVICE_ID = "service_96iyzrg"
 const EMAILJS_TEMPLATE_ID = "template_immi0ln"
 
 const ContactForm = () => {

@@ -45,6 +45,8 @@ const Header = () => {
         </Link>
         <Link
           href={"https://docs.toob.finance/"}
+          rel="noreferrer"
+          target="_blank"
           className="font-medium text-lg hover:opacity-80 active:opacity-95 transition-all"
         >
           Doc
