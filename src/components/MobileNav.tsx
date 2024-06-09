@@ -64,14 +64,14 @@ const MobileNav: React.FC<MobileNavProps> = ({ open, setOpen, className }) => {
         className ?? ""
       }`}
     >
-      <div
-        // href={"/"}
-        // target="_blank"
-        // rel="noreferrer"
+      <Link
+        href={"https://app.toob.finance"}
+        target="_blank"
+        rel="noreferrer"
         className="font-medium px-2.5 py-2 leading-6 border border-[#747681] rounded-lg hover:opacity-80 hover:scale-105 active:opacity-95 transition-all mx-auto mt-2 cursor-pointer"
       >
         Launch App
-      </div>
+      </Link>
       <div className="flex flex-col items-center mt-2">
         <Link
           href={"/"}

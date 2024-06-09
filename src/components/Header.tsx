@@ -43,6 +43,12 @@ const Header = () => {
         >
           Home
         </Link>
+        <Link
+          href={"https://docs.toob.finance/"}
+          className="font-medium text-lg hover:opacity-80 active:opacity-95 transition-all"
+        >
+          Doc
+        </Link>
         <a
           className="font-medium text-lg hover:opacity-80 active:opacity-95 transition-all cursor-pointer"
           onClick={() => onScrollLink("vision")}
