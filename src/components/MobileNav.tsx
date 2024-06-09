@@ -23,7 +23,7 @@ const MobileNav: React.FC<MobileNavProps> = ({ open, setOpen, className }) => {
   const socials = [
     {
       image: Reddit,
-      link: "https://toob.dog",
+      link: "https://docs.toob.finance",
     },
     {
       image: Github,
@@ -60,7 +60,7 @@ const MobileNav: React.FC<MobileNavProps> = ({ open, setOpen, className }) => {
   return (
     <div
       data-open={open}
-      className={`fixed lg:hidden flex flex-col top-16 left-0 right-0 bg-white rounded-es-[20px] rounded-ee-[20px] data-[open=true]:max-h-[400px] max-h-0 overflow-hidden transition-all px-4 ${
+      className={`fixed lg:hidden flex flex-col top-16 left-0 right-0 bg-white rounded-es-[20px] rounded-ee-[20px] data-[open=true]:max-h-[480px] max-h-0 overflow-hidden transition-all px-4 ${
         className ?? ""
       }`}
     >
@@ -79,6 +79,21 @@ const MobileNav: React.FC<MobileNavProps> = ({ open, setOpen, className }) => {
           onClick={() => setOpen(false)}
         >
           Home
+          <Image
+            src={ArrowRight.src}
+            width={ArrowRight.width}
+            height={ArrowRight.height}
+            alt="arrow"
+          />
+        </Link>
+        <Link
+          href={"https://docs.toob.finance/"}
+          rel="noreferrer"
+          target="_blank"
+          className="flex justify-between items-center font-medium px-3 py-2.5 text-lg bg-white hover:bg-[linear-gradient(90deg,#D9D9D938_1.172%,#D9D9D9A6_27.096%,#D9D9D9FF_49.25%,#D9D9D9A6_69.99%,#D9D9D900_95.443%)] transition-all border-b border-[#D8D8D8] w-full"
+          onClick={() => setOpen(false)}
+        >
+          Documentation
           <Image
             src={ArrowRight.src}
             width={ArrowRight.width}

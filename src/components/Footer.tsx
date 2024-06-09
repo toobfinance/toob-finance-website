@@ -15,7 +15,7 @@ const Footer = () => {
   const socials = [
     {
       image: Reddit,
-      link: "https://toob.dog",
+      link: "https://app.toob.finance",
     },
     {
       image: Github,
@@ -77,7 +77,7 @@ const Footer = () => {
               Products
             </h4>
             <Link
-              href={"https://toob.finance"}
+              href={"https://app.toob.finance"}
               target="_blank"
               rel="noreferrer"
               className="text-xs md:text-lg hover:brightness-75 active:brightness-95 transition-all mt-4 lg:mt-10 cursor-pointer"
@@ -120,7 +120,7 @@ const Footer = () => {
               Github
             </Link>
             <Link
-              href={"https://github.com/toobfinance"}
+              href={"https://docs.toob.finance/developers/widget"}
               target="_blank"
               rel="noreferrer"
               className="text-xs md:text-lg hover:brightness-75 active:brightness-95 transition-all mt-3 lg:mt-6"

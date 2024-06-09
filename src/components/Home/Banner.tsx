@@ -83,7 +83,7 @@ const Banner = () => {
             <div className="mt-[30px] lg:mt-20 flex max-lg:justify-center items-center space-x-2">
               <div className="relative">
                 <Link
-                  href={"https://toob.finance"}
+                  href={"https://app.toob.finance"}
                   target="_blank"
                   rel="noreferrer"
                   className={`flex items-center text-white bg-[linear-gradient(180deg,#333_8.5%,#000_100%)] text-xs md:text-xl font-medium py-3 lg:py-[18px] pl-[30px] pr-6 rounded-xl border border-white ${poppins.className} hover:brightness-75 hover:scale-105 active:brightness-95 transition-all`}

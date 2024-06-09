@@ -76,7 +76,7 @@ const Header = () => {
       </div>
       <div className="xl:w-[300px] max-lg:hidden" />
       <Link
-        href={"https://toob.finance"}
+        href={"https://app.toob.finance"}
         target="_blank"
         rel="noreferrer"
         className="text-lg font-medium px-6 py-4 border border-[#747681] rounded-lg hover:opacity-80 hover:scale-105 active:opacity-95 transition-all max-lg:hidden cursor-pointer whitespace-nowrap"

@@ -40,8 +40,8 @@ const ContactForm = () => {
   const socials = [
     {
       image: Reddit,
-      title: "toob.dog",
-      link: "https://toob.dog",
+      title: "app.toob.finance",
+      link: "https://app.toob.finance",
     },
     {
       image: Github,
@@ -233,7 +233,7 @@ const ContactForm = () => {
               />
               <div className="flex justify-center mt-4">
                 <ReCAPTCHA
-                  sitekey="6LcpkIUpAAAAAH2laYghmo5ysUEnAAQCe2GlfmXy"
+                  sitekey="6LfkXPQpAAAAADxy5KAm6OKx_Kt7DkrEb-YbUM39"
                   size={isSM ? "normal" : "compact"}
                   onChange={onRecaptcha}
                   ref={captchaRef}
