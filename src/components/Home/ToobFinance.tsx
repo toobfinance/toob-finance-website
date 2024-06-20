@@ -99,8 +99,8 @@ const ToobFinance = () => {
             className="text-xs md:text-xl font-medium leading-[160%] lg:mt-9"
           >
             At Toob Finance, we&apos;re not just bridging the gap between
-            TradeFi and DeFi; we&apos;re empowering developers by providing them
-            with free access to the Fiat and TradeFi worlds. As the first
+            TradFi and DeFi; we&apos;re empowering developers by providing them
+            with free access to the Fiat and TradFi worlds. As the first
             venture to close this divide, we revolutionize the landscape by
             democratizing access to financial markets, fostering creativity, and
             driving innovation in the decentralized finance space.

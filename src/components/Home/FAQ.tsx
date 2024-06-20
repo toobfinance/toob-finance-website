@@ -24,15 +24,15 @@ const FAQ = () => {
   const faqs = [
     {
       q: "Why Toob Finance?",
-      a: "Toob Finance stands out as the pioneer in bridging the gap between TradeFi and DeFi. By providing the first-ever seamless connection between these two worlds, we revolutionize accessibility to decentralized finance. Our innovative approach ensures that users can easily navigate both traditional and decentralized financial markets, setting a new standard for inclusivity and convenience.",
+      a: "Toob Finance stands out as the pioneer in bridging the gap between TradFi and DeFi. By providing the first-ever seamless connection between these two worlds, we revolutionize accessibility to decentralized finance. Our innovative approach ensures that users can easily navigate both traditional and decentralized financial markets, setting a new standard for inclusivity and convenience.",
     },
     {
-      q: "What is TradeFi and DeFi?",
-      a: "TradeFi refers to traditional finance, involving centralized institutions like banks and credit card companies. DeFi, or decentralized finance, operates on blockchain technology, allowing users to access financial services without intermediaries, such as lending, borrowing, and trading, directly through smart contracts.",
+      q: "What is TradFi and DeFi?",
+      a: "TradFi refers to traditional finance, involving centralized institutions like banks and credit card companies. DeFi, or decentralized finance, operates on blockchain technology, allowing users to access financial services without intermediaries, such as lending, borrowing, and trading, directly through smart contracts.",
     },
     {
       q: "What do you do exactly?",
-      a: "Toob Finance facilitates seamless token acquisition using fiat currency, bridging the gap between TradeFi and DeFi. If a token exists on a network we support, it's listed by default. Users can simply enter the contract address and purchase the token using fiat. Additionally, we offer token whitelisting options for projects that need it; contact us for more information.",
+      a: "Toob Finance facilitates seamless token acquisition using fiat currency, bridging the gap between TradFi and DeFi. If a token exists on a network we support, it's listed by default. Users can simply enter the contract address and purchase the token using fiat. Additionally, we offer token whitelisting options for projects that need it; contact us for more information.",
     },
     {
       q: "I’m a developer, can my token be purchased on Toob Finance?",

@@ -87,7 +87,7 @@ const Vision = () => {
           Our vision at Toob Finance is to lower the entry barrier into the
           cryptocurrency and DeFi space, driving widespread adoption of crypto
           assets and specifically the Arbitrum network. By seamlessly connecting
-          TradeFi with DeFi, we aim to empower individuals globally to easily
+          TradFi with DeFi, we aim to empower individuals globally to easily
           access and participate in the burgeoning world of digital finance,
           ultimately catalyzing the mainstream adoption of cryptocurrencies and
           blockchain technologies.

@@ -61,7 +61,7 @@ const Banner = () => {
             >
               Toob Finance : Bridging
               <br />
-              TradeFi with DeFi
+              TradFi with DeFi
             </h2>
             <div className="mt-[10] mx-auto w-[80%] lg:hidden">
               <Image
@@ -75,7 +75,7 @@ const Banner = () => {
             </div>
             <p className="max-lg:mx-8 mt-[30px] max-lg:text-center text-xs md:text-xl font-medium leading-[160%]">
               Catalyzing a paradigm shift, Toob Finance leads the charge in
-              bridging TradeFi and DeFi, providing unparalleled access to ANY
+              bridging TradFi and DeFi, providing unparalleled access to ANY
               ERC-20 Token. Our mission is to empower users and projects with
               unprecedented access, allowing seamless token acquisition using
               fiat currency, heralding a new era of financial inclusivity.

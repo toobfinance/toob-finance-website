@@ -42,7 +42,7 @@ const Fluidity = () => {
           >
             At Toob Finance, we understand that the technology world is moving
             at a rapid pace. We are committed to adapting ourselves along our
-            journey to the latest technologies in the DeFi and TradeFi worlds.
+            journey to the latest technologies in the DeFi and TradFi worlds.
             <br />
             <br />
             We prioritize user experience with the lowest fees on the market,
